@@ -93,4 +93,39 @@ pip3 install -r requirements.txt
 python3 env.py
 ```
 
+### DQN on Cart Pole, Mountain Car, Acrobot and Lunar Lander
+#### Code structure
+
+- A jupyter notebook with the implementation of DQN is available in the DQN folder
+
+#### Implementation Details
+
+##### Algorithms:
+The DQN utilizes a 3 layered Neural Network to estimate the Q values with the target network being updated every 10000 steps. Epsilon greedy action selection policy is implemented with an exponentially decreasing epsilon. The network is trained for 1500000 steps for all the environments.
+
+#### Run Locally
+clone the project 
+``` bash
+git clone git@github.com:Hussain7252/ReinforcementLearning_Odessey.git
+```
+```bash
+cd DQN
+```
+In the anaconda prompt
+```bash
+conda create --name myenv python=3.9
+conda activate myenv
+```
+```bash
+conda install --file requirements.txt
+```
+Launch jypter notebook
+```bash
+Run the notebook_dqn.ipynb step by step
+```
+
+#### Results
+<p align="center">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/bandit_env.png" width="400" height="300" alt="10 Arm Bandit">
+</p>
 
