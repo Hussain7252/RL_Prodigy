@@ -65,7 +65,7 @@ python3 main.py
 ### Dynamic Programming
 #### Code structure
 
-- The 5*5 geid world environment and the implementation of Policy Evaluation, Policy Improvement, Policy iteration and value iteration is defined in `env.py`
+- The 5*5 grid world environment and the implementation of Policy Evaluation, Policy Improvement, Policy iteration and value iteration is defined in `env.py`
 
 #### Implementation Details
 ##### Environment:
