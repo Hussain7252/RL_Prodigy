@@ -58,8 +58,8 @@ python3 main.py
 ```
 #### Results:
 <p align="center">
-  <img src=![4thprob](https://github.com/Hussain7252/RL_Prodigy/assets/124828274/f0c61e5d-d677-4c14-82a9-daf6e74b5719) width="400" height="300" alt="Image 1">
-  <img src=![7rewards](https://github.com/Hussain7252/RL_Prodigy/assets/124828274/d9ac304e-e055-49bb-9867-edbd069eef73) width="400" height="300" alt="Image 2">
+  <img src="![4thprob](https://github.com/Hussain7252/RL_Prodigy/assets/124828274/f0c61e5d-d677-4c14-82a9-daf6e74b5719)" width="400" height="300" alt="10 Arm Bandit">
+  <img src="![7rewards](https://github.com/Hussain7252/RL_Prodigy/assets/124828274/d9ac304e-e055-49bb-9867-edbd069eef73)" width="400" height="300" alt="Epsilon greedy and UCB rewards">
 </p>
 
 
