@@ -59,7 +59,7 @@ python3 main.py
 #### Results:
 <p align="center">
   <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/bandit_env.png" width="400" height="300" alt="10 Arm Bandit">
-  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/bandit_algo_rewards.png" width="400" height="300" alt="Epsilon greedy and UCB rewards">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/7rewards.png" width="400" height="300" alt="Epsilon greedy and UCB rewards">
 </p>
 
 ### Dynamic Programming
