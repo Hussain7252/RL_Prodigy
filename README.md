@@ -126,6 +126,6 @@ Run the notebook_dqn.ipynb step by step
 
 #### Results
 <p align="center">
-  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/bandit_env.png" width="400" height="300" alt="10 Arm Bandit">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/cartpole_DQN.png" width="500" height="500" alt="DQN_cartpole">
 </p>
 
