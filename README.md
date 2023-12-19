@@ -92,6 +92,7 @@ pip3 install -r requirements.txt
 ```bash
 python3 env.py
 ```
+### Monte Carlo on Blackjack and FourRoom environment
 
 ### DQN on Cart Pole, Mountain Car, Acrobot and Lunar Lander
 #### Code structure
