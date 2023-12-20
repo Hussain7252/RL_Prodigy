@@ -2,7 +2,7 @@
 
 Embark on a comprehensive RL exploration, spanning from foundational bandit problems to cutting-edge deep RL. Begin with classical algorithms like Epsilon-Greedy and UCB, applied to a 10-armed bandit environment, laying the groundwork for understanding fundamental RL concepts.
 
-The journey advances into on/off-policy Monte Carlo methods, unveiling real-world applications. Shifting focus to TD learning, explore SARSA, Expected SARSA, Q Learning, and n-step SARSA, each shedding light on RL adaptability. A leap into Deep Q Networks (DQN) introduces enhanced strategies, including the Dual DQN (DDQN) model to address overestimation biases, enhancing stability.
+The journey advances into on Monte Carlo methods, unveiling real-world applications. Shifting focus to TD learning, explore SARSA, Expected SARSA, Q Learning, and n-step SARSA, each shedding light on RL adaptability. A leap into Deep Q Networks (DQN) introduces enhanced strategies, including the Dual DQN (DDQN) model to address overestimation biases, enhancing stability.
 
 Culminating in Proximal Policy Optimization (PPO), witness the convergence of classical RL with cutting-edge deep learning. PPO's robustness marks a milestone in this expedition, synthesizing theoretical foundations with practical insights. Gain valuable perspectives into adaptability, scalability, and challenges across diverse environments, making this project an indispensable resource for enthusiasts and practitioners alike.
 
