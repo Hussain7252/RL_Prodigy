@@ -197,6 +197,9 @@ Run the notebook_dqn.ipynb step by step
 
 #### Results
 <p align="center">
-  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/cartpole_DQN.png" width="500" height="500" alt="DQN_cartpole">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/cartpole_DQN.png" width="400" height="300" alt="DQN_cartpole">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/mountaincar.png" width="400" height="300" alt="DQN_mountaincar">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/acrobot.png" width="400" height="300" alt="DQN_acrobot">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/LunarLander.png" width="400" height="300" alt="DQN_LunarLander">
 </p>
 
