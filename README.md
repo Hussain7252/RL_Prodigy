@@ -14,8 +14,10 @@ Culminating in Proximal Policy Optimization (PPO), witness the convergence of cl
 ## Roadmap
 
 - Multi Arm Bandit (Epsilon Greedy and UCB)
-
 - Dynamic Programming
+- Monte Carlo methods (MC evaluuation, MC exploring starts, MC epsilon greedy) on Black jack and Fourroom evironment
+-  
+- DQN on Cartpole, Mountain Car, Acrobot and Lunar Lander
 
 
 ## Section Details
