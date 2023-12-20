@@ -94,6 +94,35 @@ pip3 install -r requirements.txt
 ```bash
 python3 env.py
 ```
+
+### MC control, SARSA, Expected SARSA, N-Step SARSA and Q Learning on windy grid world environment
+
+#### Code Structure
+- The general, stochiastic and windy grid world with diagonal actions is implemented in the `env.py` .
+- The epsilon greedy policy is defined in `policy.py`
+- MC control with epsilon greedy policy, SARSA, Expected SARSA, N-Step SARSA and Q learning is available in `algorithms.py`.
+- The main file to run codes are `algorithms.py`. 
+
+#### Run Locally
+clone the project 
+``` bash
+git clone git@github.com:Hussain7252/ReinforcementLearning_Odessey.git
+```
+```bash
+cd TD-Learning
+```
+```bash
+pip3 install --file requirements.txt
+```
+Run these files individually
+```bash
+python3 algorithms.py
+```
+#### Results
+<p align="center">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/3a_500000.png" width="400" height="300" alt="State-Value">
+</p>
+
 ### Monte Carlo on Blackjack and FourRoom environment
 
 #### Code Structure
