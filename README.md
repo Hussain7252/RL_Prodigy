@@ -203,3 +203,9 @@ Run the notebook_dqn.ipynb step by step
   <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/LunarLander.png" width="400" height="300" alt="DQN_LunarLander">
 </p>
 
+### Exploring the Effectiveness of DQN, Dueling DDQN and PPO algorithms on Luunar Lander
+#### Code structure
+
+- A jupyter notebook with the implementation of DQN, Dueling DDQN and PPO is available in the PolicybasedVSvaluebased folder
+
+
