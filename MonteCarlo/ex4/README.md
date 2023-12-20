@@ -1,4 +1,4 @@
-# Exercise 4: Monte-Carlo Methods
+# Monte-Carlo Methods on BlackJack and FourRoom Environments
 
 How to Run my Code
 
