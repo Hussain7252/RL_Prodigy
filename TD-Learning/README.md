@@ -1,4 +1,4 @@
-# Temporal-Difference Learning
+# MC Control, SARSA, Expected SARSA, N-Step SARSA and Q learning on windy grid world environment
 
 ## Setup
 
