@@ -15,7 +15,7 @@ Culminating in Proximal Policy Optimization (PPO), witness the convergence of cl
 
 - Multi Arm Bandit (Epsilon Greedy and UCB)
 - Dynamic Programming
-- Monte Carlo methods (MC evaluuation, MC exploring starts, MC epsilon greedy) on Black jack and Fourroom evironment
+- Monte Carlo methods (MC evaluation, MC exploring starts, MC epsilon greedy) on Black jack and Four room evironment
 - On Policy Monte Carlo Control, SARSA, Expected SARSA, N-Step SARSA and Q learning on a custom windy gridworld environment
 - DQN on Cartpole, Mountain Car, Acrobot and Lunar Lander
 - Dueling DDQN, DQN and PPO on Lunar Lander environment
@@ -120,7 +120,9 @@ python3 algorithms.py
 ```
 #### Results
 <p align="center">
-  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/3a_500000.png" width="400" height="300" alt="State-Value">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/Windy_grid.png" width="400" height="300" alt="Windy-Grid World">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/kings_move.png" width="400" height="300" alt="Windy-Grid with kings move">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/stochiasticwind_kings.png" width="400" height="300" alt="Windy-Grid king with stochastic wind">
 </p>
 
 ### Monte Carlo on Blackjack and FourRoom environment
