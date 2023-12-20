@@ -120,7 +120,9 @@ python3 algorithms.py
 ```
 #### Results
 <p align="center">
-  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/3a_500000.png" width="400" height="300" alt="State-Value">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/Windy_grid.png" width="400" height="300" alt="Windy-Grid World">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/kings_move.png" width="400" height="300" alt="Windy-Grid with kings move">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/stochiasticwind_kings.png" width="400" height="300" alt="Windy-Grid king with stochastic wind">
 </p>
 
 ### Monte Carlo on Blackjack and FourRoom environment
