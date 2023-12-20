@@ -1,4 +1,4 @@
-# Exercise 5: Temporal-Difference Learning
+# Temporal-Difference Learning
 
 ## Setup
 
