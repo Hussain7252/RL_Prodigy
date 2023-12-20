@@ -126,6 +126,9 @@ python3 fourroom.py
   <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/3b_unusable_500000.png" width="400" height="300" alt="Policy_unusableace">
   <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/3b_usable_500000.png" width="400" height="300" alt="Policy_usableace">
 </p>
+<p align="center">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/question4.png" width="400" height="300" alt="average_rewards_1000episodes">
+</p>
 
 
 ### DQN on Cart Pole, Mountain Car, Acrobot and Lunar Lander
