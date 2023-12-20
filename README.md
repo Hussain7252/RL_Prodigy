@@ -94,6 +94,40 @@ python3 env.py
 ```
 ### Monte Carlo on Blackjack and FourRoom environment
 
+#### Code Structure
+- The blackjack environment from gym (version 0.22.0) is utalized.
+- The four room environment is defined in `env.py`
+- The blackjack policy and epsilon greedy policy which is common for the black jack and Four room environment is defined in `policy.py`
+- MC evaluation, MC control with exploring starts and MC control with epsilon greedy policy are given in `algorithms.py`.
+- The main file to run codes are `3a.py` for blackjack MC evaluation, `3b.py` for MC control with exploring starts and `fourroom.py` for MC control with epsilon greedy policy applied on four room environment. 
+
+#### Run Locally
+clone the project 
+``` bash
+git clone git@github.com:Hussain7252/ReinforcementLearning_Odessey.git
+```
+```bash
+cd MonteCarlo
+```
+```bash
+pip3 install --file requirements.txt
+```
+Run these files individually
+```bash
+python3 3a.py
+python3 3b.py
+python3 fourroom.py
+```
+#### Results
+<p align="center">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/3a_500000.png" width="400" height="300" alt="State-Value">
+</p>
+<p align="center">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/3b_unusable_500000.png" width="400" height="300" alt="Policy_unusableace">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/3b_usable_500000.png" width="400" height="300" alt="Policy_usableace">
+</p>
+
+
 ### DQN on Cart Pole, Mountain Car, Acrobot and Lunar Lander
 #### Code structure
 
