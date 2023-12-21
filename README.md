@@ -258,3 +258,7 @@ Run the PPO.ipynb for PPO on Lunar Lander
 <p align="center">
   <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/Final%20plots%20comparision.png">
 </p>
+
+#### Acknowledgements:
+- [ROBOT LEARNING, edited by Jonathan H. Connell and Sridhar Mahadevan, Kluwer, Boston, 1993/1997, xii 240 pp., ISBN 0-7923-9365-1 (Hardback, 218.00 Guilders, $120.00, £89.95). Robotica. 1999;17(2):229-235. doi:10.1017/S0263574799271172](https://doi.org/10.1017/S0263574799271172)
+- [OpenAI](https://openai.com/research/openai-baselines-ppo)
