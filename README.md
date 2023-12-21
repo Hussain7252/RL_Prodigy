@@ -256,5 +256,5 @@ Run the PPO.ipynb for PPO on Lunar Lander
 
 #### Results
 <p align="center">
-  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/cartpole_DQN.png" width="400" height="300" alt="DQN_cartpole">
+  <img src="https://github.com/Hussain7252/RL_Prodigy/blob/main/media/Final%20plots%20comparision.png">
 </p>
