@@ -210,7 +210,7 @@ Run the notebook_dqn.ipynb step by step
 
 #### Documentation
 
-- 
+- [Exploring the Effectiveness of DQN, Dueling DDQN and PPO Algorithms on the Lunar Lander, Hussain Kanchwala](https://github.com/Hussain7252/RL_Prodigy/blob/main/PolicybasedVSvaluebased/Report.pdf)
 
 #### Implementation Details
 ##### Algorithms:
